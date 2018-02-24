@@ -1,0 +1,9 @@
+select * from [dbo].[MstServiceFare]
+
+select *  from mstfunction
+
+select * from mstdepartment
+
+select * from mstlane
+
+select * from LaneDeviceSettings
